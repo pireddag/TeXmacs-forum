@@ -8,6 +8,14 @@ Gli snippets possono essere copi-incollati in uno dei vostri file di inizializza
 
 Per editare i file nell editor di TeXmacs, come primo passo abilitate<br>`Tools→Developer Tool`; una volta fatto questo:
 
+- Per il codice per **`my-init-texmacs.scm`**:
+
+    Cliccate su `Developer → Open my-init-texmacs.scm`.
+
+- Per il codice per **`my-init-buffer.scm`**:
+
+    Cliccate su `Developer → Open my-init-buffer.scm`.
+
 Incollate lo snippet. Per incollare codice da questa pagina all'editor di TeXmacs può essere necessario usare `Edit → Paste from → Html` in TeXmacs (anche `Edit → Paste from → Verbatim` funziona).
 
 Salvato il file editato.
