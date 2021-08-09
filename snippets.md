@@ -1,6 +1,6 @@
 Many aspects of TeXmacs' behaviour can be changed/extended by adding Scheme code to the right initialization files. This wiki post collects various such snippets of code to adjust the behaviour of TeXmacs to your liking.
 
-Feel free to add your own. Here new sentence. The snippets do not have to be perfect. The intention is very much for users to improve and extend each others' code. Longer pieces of code may be better suited for the [TeXmacs Forge](https://github.com/texmacs/tm-forge).
+Feel free to add your own. The snippets do not have to be perfect. The intention is very much for users to improve and extend each others' code. Longer pieces of code may be better suited for the [TeXmacs Forge](https://github.com/texmacs/tm-forge).
 
 # How to edit the TeXmacs user initialization files 
 
