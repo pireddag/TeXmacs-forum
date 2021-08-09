@@ -8,14 +8,6 @@ The code snippets can be copy-pasted into one of your TeXmacs user initializatio
 
 To edit the files in the TeXmacs editor, first enable `Tools→Developer Tool`, then:
 
-* For code that should go into **`my-init-texmacs.scm`**:
-  
-  Click `Developer → Open my-init-texmacs.scm`. 
-
-* For code that should go into **`my-init-buffer.scm`**:
-
-  Click `Developer → Open my-init-buffer.scm`.
-
 Paste in the snippet of your choice. To paste code from this page you may have to use `Edit → Paste from → Html` in TeXmacs (`Edit → Paste from → Verbatim` is also possible).
 
 Save the edited file. 
